@@ -1,0 +1,15 @@
+{
+  "name": "rest-pathsuffix",
+  "version": "0.1.0",
+  "description": "Rest.js interceptor to add a suffix to the request path",
+  "main": "index.js",
+  "keywords": [
+    "rest.js",
+    "interceptor"
+  ],
+  "author": "Tim Neutkens",
+  "license": "ISC",
+  "dependencies": {
+    "rest": "^1.3.1"
+  }
+}
