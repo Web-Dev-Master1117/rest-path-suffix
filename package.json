@@ -7,6 +7,10 @@
     "rest.js",
     "interceptor"
   ],
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/timneutkens1/rest-path-suffix"
+  },
   "author": "Tim Neutkens",
   "license": "ISC",
   "dependencies": {
