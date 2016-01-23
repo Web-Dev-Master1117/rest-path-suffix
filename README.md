@@ -12,6 +12,8 @@ Install path suffix interceptor
 npm install --save rest-pathsuffix
 ```
 
+Please note that this module is written in es2015 (es6). So you will need a transpiler like [Babel](babeljs.io) to use it.
+
 ## How to use
 ```
 const rest       = require('rest'),
